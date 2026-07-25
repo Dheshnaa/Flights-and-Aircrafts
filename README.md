@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Dheshnaa
 
 I’m a junior at **UCLA studying Data Theory**, with interests in artificial intelligence, machine learning, data science, and software engineering.
@@ -123,4 +122,3 @@ The system integrates speech-to-text technology with large language models and a
 ---
 
 > I’m always interested in learning, collaborating, and building meaningful technology.
-```
