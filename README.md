@@ -1,6 +1,6 @@
-# Flights SQL Analysis — Assignment 3
+# Flights SQL Analysis
 
-A SQL practice assignment that loads flight and aircraft data into a SQLite database and answers a series of analytical queries using joins, filtering, sorting, and aggregation.
+A SQL project that loads flight and aircraft data into a SQLite database and answers a series of analytical queries using joins, filtering, sorting, and aggregation.
 
 ## Overview
 
